@@ -88,13 +88,9 @@ Click Generate Report to create the report.
 
 The generated report provides an overview of the selected hitter's pitch usage, swing tendencies, run value, pitch location, count performance, and pitch type and location results.
 
-## Example
+## Examples
 
-Below is an example of the report generated for Juan Soto.
-
-![Juan Soto Statcast Hitter Report](examples/Juan_Soto_Report.png)
-
-Additional examples are available in the examples folder.
+Examples are available in the examples folder.
 
 ## Future Development
 
